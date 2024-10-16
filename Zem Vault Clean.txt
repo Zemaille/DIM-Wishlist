@@ -68,3 +68,7 @@ dimwishlist:item=3997086838&perks=3643424744,2978966579
 //Rake Angle (Adept) (pve)
 //notes: tags:pve
 dimwishlist:item=3997086838&perks=1556840489,2978966579
+
+// Ded Gramarye IV (pve)
+//notes: tags:pve
+dimwishlist:item=499245245&perks=2396489472
